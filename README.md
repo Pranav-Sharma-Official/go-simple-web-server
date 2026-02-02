@@ -35,9 +35,10 @@ The main goal of this project is to build a strong foundation in backend develop
 
 ```
 project/
-│── main.go        # Server logic and route handlers
-│── index.html     # Home page
-│── form.html      # HTML form page
+│── main.go # Server logic and route handlers
+│── static/ # Static files served by the server
+│ │── index.html # Home page
+│ │── form.html # HTML form page
 ```
 
 ---
